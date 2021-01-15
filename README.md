@@ -8,8 +8,8 @@
 <img width="333" alt="8luebottle" align="right" src="https://user-images.githubusercontent.com/48475824/87215634-674d5c80-c373-11ea-841f-23a8596db286.gif">
 
 #### 🙌  &nbsp; Hi, I'm ENTJ-T
-#### 📣  &nbsp; 
-#### 📣  &nbsp; 
+#### 📣  &nbsp; 어제보다 나은 오늘!
+#### 📣  &nbsp; 오늘에만 집중!
 
 
 * 👨🏻‍💻  &nbsp; currently learning **[JavaScript], [Python], AWS ,[TypeScript] ,[React] **
