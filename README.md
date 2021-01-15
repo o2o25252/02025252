@@ -28,6 +28,6 @@
 
 
 
- <p>
+ 
   <img height="120" align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o2o25252&hide_title=true&hide=html,css&layout=compact&theme=algolia">
-</p>
+
