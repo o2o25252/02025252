@@ -27,7 +27,7 @@
 
 
 
-  <img height="130" align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=o2o25252&hide_title=true&hide=contribs&show_icons=true&count_private=true&include_all_commits=true&theme=algolia">
+  <img height="150" align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=o2o25252&hide_title=true&hide=contribs&show_icons=true&count_private=true&include_all_commits=true&theme=algolia">
  
-  <img margin-top="15" height="130" align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o2o25252&hide_title=true&hide=html,css&layout=compact&theme=algolia">
+  <img  height="150" align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o2o25252&hide_title=true&hide=html,css&layout=compact&theme=algolia">
 
