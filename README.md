@@ -25,6 +25,8 @@
  👀 &nbsp; interested in  Book, Apple ,Hip-hop 
 <br>
 
+----
+
 <p>
   <img height="120" align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=o2o25252&hide_title=true&hide=contribs&show_icons=true&count_private=true&include_all_commits=true&theme=algolia">
 </p>
