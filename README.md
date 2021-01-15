@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-#dedede?style=flat-square&logo=Typescript&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/typescript-blue?style=flat-square&logo=Typescript&logoColor=white"/> 
   TypeScript ,React 
   
  👀 &nbsp; interested in  Book, Apple ,Hip-hop 
