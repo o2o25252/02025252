@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
 <img src="https://img.shields.io/badge/typescript-blue?style=flat-square&logo=Typescript&logoColor=white"/> 
-  TypeScript ,React 
+ <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/> 
   
  👀 &nbsp; interested in  Book, Apple ,Hip-hop 
 <br>
