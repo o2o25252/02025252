@@ -12,7 +12,7 @@
 #### 📣  &nbsp; 오늘에만 집중!
 
 
-* 👨🏻‍💻  &nbsp; currently learning  JavaScript, Python, AWS ,TypeScript ,React 
+* 👨🏻‍💻  &nbsp; currently learning  JavaScript, <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp , AWS ,TypeScript ,React 
 * 👀 &nbsp; interested in  Book, Apple ,Hip-hop 
 <br>
 
