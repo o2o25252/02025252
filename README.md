@@ -1,4 +1,5 @@
 
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=HeeChanLim&fontSize=70&animation=twinkling)
 # Hi 👋  
 ![Made with by o2o25252](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8Fby-%20o2o25252%20-blue) &nbsp;
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fo2o25252%2Fhit-counter&count_bg=%23195BD3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -6,7 +7,7 @@
 
 
 <img width="333" alt="8luebottle" align="right" src="https://user-images.githubusercontent.com/48475824/87215634-674d5c80-c373-11ea-841f-23a8596db286.gif">
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=HeeChanLim&fontSize=70&animation=twinkling)
+
 #### 🙌  &nbsp; Hi, I'm ENTJ-T
 #### 📣  &nbsp; 어제보다 나은 오늘!
 #### 📣  &nbsp; 오늘에만 집중!
