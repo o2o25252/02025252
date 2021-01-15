@@ -12,8 +12,8 @@
 #### 📣  &nbsp; 오늘에만 집중!
 
 
-* 👨🏻‍💻  &nbsp; currently learning **JavaScript, Python, AWS ,TypeScript ,React **
-* 💜 &nbsp; interested in **Book, Apple ,Hip-hop**
+* 👨🏻‍💻  &nbsp; currently learning ** JavaScript, Python, AWS ,TypeScript ,React **
+* 💜 &nbsp; interested in ** Book, Apple ,Hip-hop **
 <br>
 
 <p>
