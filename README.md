@@ -9,7 +9,7 @@
 
 
 #### 🙌  &nbsp; Hi, I'm ENTJ-T
-###  🪐  &nbsp;  최근에 IOS 를 배우고 싶어서 시작 했어요 (1/27)
+###  📱  &nbsp;  IOS 에 관심이 생겨 현재는 IOS 쪽 만 공부중 입니다. 
 
 
  👨🏻‍💻  &nbsp; currently learning  
