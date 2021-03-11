@@ -9,7 +9,7 @@
 
 
 #### 🙌  &nbsp; Hi, I'm ENTJ-T
-###  📱  &nbsp;  IOS 에 관심이 생겨 현재는 IOS 쪽 만 공부중 입니다. 
+###  📱  &nbsp;  요즘은 IOS 에 관심이 많습니다
 
 
  👨🏻‍💻  &nbsp; currently learning  
