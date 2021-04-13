@@ -15,7 +15,6 @@
  <img src="https://img.shields.io/badge/swift-3766AB?style=flat-square&logo=swift&logoColor=white"/>
 
  👨🏻‍💻  &nbsp; learned
-  <img src="https://img.shields.io/badge/swift-3766AB?style=flat-square&logo=swift&logoColor=white"/>
  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
