@@ -10,7 +10,7 @@
 
 #### 🙌  &nbsp; Hi, I'm ENTJ-T
 ###  📱  &nbsp;  현재는 IOS 공부중입니다. 
-
+## 늦은건 없다.
  👨🏻‍💻  &nbsp; learning
  <img src="https://img.shields.io/badge/swift-3766AB?style=flat-square&logo=swift&logoColor=white"/>
 
