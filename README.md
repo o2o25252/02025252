@@ -13,6 +13,7 @@
 ## 🐌  &nbsp;  늦은건 없다.
  👨🏻‍💻  &nbsp; learning
  <img src="https://img.shields.io/badge/swift-3766AB?style=flat-square&logo=swift&logoColor=white"/>
+ <img src="https://img.shields.io/badge/storybord-3766AB?style=flat-square&logo=swift&logoColor=white"/>
 
  👨🏻‍💻  &nbsp; learned
  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
